@@ -25,8 +25,23 @@ It processes transactions in real time, predicts fraud probability using Machine
 ---
 
 ## 🏗️ System Architecture
-![Uploading mermaid-diagram.png…]()
+```mermaid
+flowchart LR
 
+User[User] --> API[FastAPI Backend]
+
+API --> Preprocess[Data Processing]
+Preprocess --> Model[ML Model]
+
+Model --> API
+
+API --> DB[(Database)]
+API --> Dashboard[Streamlit Dashboard]
+
+DB --> Dashboard
+
+API --> User
+```
 
 ## ⚙️ Tech Stack
 
