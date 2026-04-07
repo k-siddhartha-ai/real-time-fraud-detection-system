@@ -28,19 +28,54 @@ It processes transactions in real time, predicts fraud probability using Machine
 ```mermaid
 flowchart LR
 
-User[User] --> API[FastAPI Backend]
+    %% ===== CLIENT =====
+    User[👤 User / Client]
 
-API --> Preprocess[Data Processing]
-Preprocess --> Model[ML Model]
+    %% ===== API =====
+    API[⚡ FastAPI Backend]
 
-Model --> API
+    %% ===== ML PIPELINE =====
+    subgraph ML_Pipeline [🧠 ML Pipeline]
+        Input[📥 Input Features]
+        Preprocess[⚙️ Data Preprocessing]
+        Scaler[📊 Feature Scaling]
+        Model[🤖 Fraud Detection Model]
 
-API --> DB[(Database)]
-API --> Dashboard[Streamlit Dashboard]
+        Input --> Preprocess --> Scaler --> Model
+    end
 
-DB --> Dashboard
+    %% ===== DATABASE =====
+    DB[(🗃️ Database - SQLite)]
 
-API --> User
+    %% ===== DASHBOARD =====
+    Dashboard[📊 Streamlit Dashboard]
+
+    %% ===== EXPLAINABILITY =====
+    Explain[🔍 Explainability (SHAP)]
+
+    %% ===== MONITORING =====
+    Logs[📜 Logging System]
+    Metrics[📈 Metrics API]
+
+    %% ===== FLOW =====
+    User -->|Request| API
+
+    API -->|Send Data| Input
+    Model -->|Prediction| API
+
+    API -->|Store Result| DB
+    DB -->|Read Data| API
+
+    API -->|Response| User
+
+    API --> Dashboard
+    DB --> Dashboard
+
+    API --> Explain
+    Explain --> API
+
+    API --> Logs
+    API --> Metrics
 ```
 
 ## ⚙️ Tech Stack
