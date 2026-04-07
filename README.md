@@ -68,6 +68,7 @@ Response
 GET /health
 🔹 Explain Prediction
 POST /api/v1/explain
+```
 
 🖥️ Run Locally
 ```bash
