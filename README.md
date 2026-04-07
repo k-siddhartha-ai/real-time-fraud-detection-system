@@ -123,10 +123,11 @@ streaming/       → Real-time simulation
 
 
 ## 📸 Backend Demo
+<img width="1765" height="827" alt="Screenshot 2026-04-07 225203" src="https://github.com/user-attachments/assets/201d726a-dda8-46c3-9755-e72e076e8603" />
 
 ### Fraud Prediction API Output
 
-![API Output](assets/api_output.png)
+![API Output](assets/api_output.png
 
 
 🚀 Future Improvements
