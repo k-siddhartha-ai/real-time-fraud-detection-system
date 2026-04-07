@@ -76,18 +76,19 @@ cd real-time-fraud-detection-system
 
 pip install -r requirements.txt
 uvicorn services.api.main:app --reload
+```
 
 
 🐳 Run with Docker
 ```bash
 docker build -t fraud-app .
 docker run -p 8000:8000 fraud-app
-
+```
 
 📊 Dashboard
 ```bash
 streamlit run dashboard/app.py
-
+```
 
 📂 Project Structure
 services/        → API & core backend  
