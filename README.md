@@ -120,6 +120,12 @@ streaming/       → Real-time simulation
   "is_fraud": true
 }
 
+## 📸 Backend Demo
+
+### Fraud Prediction API Output
+
+![API Output](assets/api_output.png)****
+
 
 🚀 Future Improvements
 Kafka-based real-time streaming
