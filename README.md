@@ -1,29 +1,4 @@
-# 🚀 Real-Time Fraud Detection System
 
-> Production-grade Machine Learning system for detecting fraudulent financial transactions in real-time.
-
----
-
-## 📌 Overview
-
-This project simulates a real-world fraud detection system used in fintech platforms.  
-It processes transactions in real time, predicts fraud probability using Machine Learning, and logs results for monitoring and analytics.
-
----
-
-## 🔥 Key Features
-
-- ⚡ Real-time fraud prediction API using FastAPI
-- 🧠 ML model with probability-based scoring
-- 📊 Interactive dashboard using Streamlit
-- 🗃️ Database logging using SQLAlchemy
-- 📈 Fraud analytics and monitoring endpoints
-- 🔍 Explainable AI (fallback-safe SHAP)
-- 🐳 Dockerized deployment (production-ready)
-
----
-
-## 🏗️ System Architecture
 # 🚀 Real-Time Fraud Detection System
 
 > Production-grade Machine Learning system for detecting fraudulent financial transactions in real-time.
