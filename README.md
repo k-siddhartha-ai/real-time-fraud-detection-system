@@ -26,46 +26,33 @@
 
 ---
 
-# 🌐 About Me (SEO Optimized)
+# 🌐 About Me
 
 I am **K. Siddhartha**, a Python Developer and Machine Learning Engineer specializing in building **real-time AI systems, scalable backend APIs, and production-grade ML pipelines**.
-
-This project demonstrates my ability to design **end-to-end machine learning systems used in fintech fraud detection**, combining backend engineering, data science, and system design.
 
 ---
 
 # 💡 Problem Statement
 
-Financial fraud results in billions of losses annually.
-Traditional systems fail due to **delayed batch processing**.
+Financial fraud causes massive losses.
+Traditional systems fail due to delayed detection.
 
 👉 This system enables:
 
 * ⚡ Real-time fraud detection
-* 🧠 ML-based decision making
-* 📊 Live monitoring dashboard
+* 🧠 ML-based predictions
+* 📊 Live monitoring
 
 ---
 
-# 🚀 System Highlights
+# 🚀 Features
 
-| Capability     | Technology   |
-| -------------- | ------------ |
-| Real-time API  | FastAPI      |
-| ML Model       | Scikit-learn |
-| Dashboard      | Streamlit    |
-| Database       | SQLAlchemy   |
-| Explainability | SHAP         |
-| Deployment     | Docker       |
-
----
-
-# 📊 Performance
-
-* ⚡ Latency: ~25ms
-* 🎯 Accuracy: ~96%
-* 📉 False Positives: ~2%
-* 🚀 Throughput: 500+ req/sec
+* ⚡ FastAPI backend
+* 🧠 ML prediction pipeline
+* 📊 Streamlit dashboard
+* 🗃️ Database logging
+* 🔍 Explainable AI
+* 📈 Data analytics
 
 ---
 
@@ -87,7 +74,7 @@ Dashboard --> User
 
 # 📸 Backend API
 
-### Fraud Prediction API
+### Swagger API
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/3a82967a-d4fc-43de-bcf1-12a502e13de7" width="70%" />
@@ -101,39 +88,49 @@ Dashboard --> User
 
 ---
 
-# 📊 Frontend Dashboard
+# 📊 Frontend Dashboard (Complete Outputs)
 
-### Transaction Prediction UI
+## 🔍 Transaction Input UI
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/37ef5ced-399e-4cd3-807d-6d8e6beb0eec" width="75%" />
 </p>
 
-### Prediction Output
+---
+
+## 📌 Prediction Result (Fraud Detection)
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/015d81ae-fd04-466a-a979-c98e8194f51d.png" width="75%" />
 </p>
 
-### Local History
+---
+
+## 🧾 Local Prediction History
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/208d8f9f-68c7-40dc-a5b0-8803bd5aab74.png" width="75%" />
 </p>
 
-### Database Logs
+---
+
+## 🗃️ Database Prediction Logs
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/6d14ec9b-be02-4322-8ced-2d1205dd8477.png" width="75%" />
 </p>
 
-### Analytics
+---
+
+## 📈 Fraud Probability Distribution
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/be22c351-4412-4a01-a8f8-3a95355370b6.png" width="75%" />
 </p>
 
-### System Stats
+---
+
+## 📊 Fraud Statistics Dashboard
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/e011d8a6-b608-431c-b0c9-16669ffd488f.png" width="75%" />
@@ -141,15 +138,21 @@ Dashboard --> User
 
 ---
 
-# 📚 Data Analysis
+# 📚 Data Analysis (Syllabus Section)
+
+## 📊 Mean
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/399e8d70-5b6e-411a-bc5f-577846c16a63.png" width="75%" />
 </p>
 
+## 📊 Median
+
 <p align="center">
 <img src="https://github.com/user-attachments/assets/ef8aba34-53d9-44e2-bd69-d42688074f9d.png" width="75%" />
 </p>
+
+## 📊 Standard Deviation
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/a2d9e312-f57b-44ff-a9cc-9a69935b3174.png" width="75%" />
@@ -181,26 +184,27 @@ streamlit run dashboard/app.py
 
 # 🧠 Skills Demonstrated
 
-* Machine Learning Engineering
-* Backend API Development
-* Data Processing Pipelines
+* Machine Learning
+* FastAPI Backend Development
+* Streamlit UI
+* Data Analysis
 * Explainable AI
-* Real-Time System Design
+* Real-Time Systems
 
 ---
 
-# 🚀 Future Scope
+# 🚀 Future Improvements
 
 * Kafka Streaming
 * AWS Deployment
-* CI/CD Pipelines
-* MLflow Integration
+* CI/CD
+* MLflow
 
 ---
 
 # ⭐ Support
 
-Give a ⭐ if this project helped you
+Give a ⭐ if you like this project
 
 ---
 
