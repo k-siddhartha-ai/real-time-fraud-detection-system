@@ -48,13 +48,30 @@ This system enables **real-time fraud detection with low latency and high accura
 
 ---
 
-## 🏗️ Architecture
+## 🏗️ System Architecture
 
 ```mermaid
 flowchart LR
-User --> API --> Model --> DB --> Dashboard
 
+    User[Client] --> API[FastAPI Backend]
+
+    API --> Preprocess[Data Processing Layer]
+    Preprocess --> Scaler[Feature Scaling]
+    Scaler --> Model[ML Inference Engine]
+
+    Model --> API
+
+    API --> DB[(Database Layer)]
+    API --> Dashboard[Visualization Layer]
+
+    DB --> Dashboard
+
+    API --> Logs[Logging System]
+    API --> Metrics[Monitoring Layer]
+
+    API --> User
 ```
+
 
 📸 Demo (Optimized Images)
 🔹 API (Swagger)
