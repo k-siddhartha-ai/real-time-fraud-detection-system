@@ -1,149 +1,212 @@
 # 🚀 Real-Time Fraud Detection System
 
-> Production-grade Machine Learning system for detecting fraudulent financial transactions in real-time.
+> **Production-Grade Machine Learning System for Real-Time Financial Fraud Detection**
+> Built using FastAPI, Streamlit, and Scalable ML Architecture
 
 ---
 
-## 👤 Built by K. Siddhartha
+# 👤 K. Siddhartha
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e91314d3-1e2c-49ad-83a5-e0dc0d668f6c" width="120" style="border-radius:50%" />
+  <img src="https://github.com/user-attachments/assets/e91314d3-1e2c-49ad-83a5-e0dc0d668f6c" width="160" style="border-radius:50%" />
 </p>
 
-- 🎯 Aspiring Machine Learning Engineer | Backend Developer  
-- 💡 Focus: Real-time ML Systems, Scalable APIs, MLOps  
-- 🔗 GitHub: https://github.com/k-siddhartha-ai  
-- 🔗 LinkedIn: https://www.linkedin.com/in/karne-siddhartha-163bb1369  
+<p align="center">
+<b>Python Developer | Machine Learning Engineer | Backend Developer</b>
+</p>
 
-> Designed and engineered an end-to-end real-time fraud detection system simulating production fintech pipelines.
+<p align="center">
+🚀 Real-Time Systems • ML Pipelines • Scalable APIs  
+</p>
 
----
-
-## 💡 Problem Statement
-
-Financial fraud causes billions in losses annually.  
-Traditional systems fail due to delayed batch processing.
-
-This system enables **real-time fraud detection with low latency and high accuracy**.
+<p align="center">
+<a href="https://github.com/k-siddhartha-ai">GitHub</a> • 
+<a href="https://www.linkedin.com/in/karne-siddhartha-163bb1369">LinkedIn</a>
+</p>
 
 ---
 
-## 📊 System Performance
+# 🌐 About Me (SEO Optimized)
 
-- 🚀 Latency: ~25ms  
-- 🎯 Accuracy: ~96%  
-- ⚡ Throughput: 500+ req/sec  
-- 📉 False Positives: ~2%  
+I am **K. Siddhartha**, a Python Developer and Machine Learning Engineer specializing in building **real-time AI systems, scalable backend APIs, and production-grade ML pipelines**.
 
----
-
-## 🔥 Key Features
-
-- ⚡ FastAPI real-time prediction API  
-- 🧠 ML model scoring  
-- 📊 Streamlit dashboard  
-- 🗃️ SQLAlchemy logging  
-- 🔍 SHAP explainability  
-- 🐳 Docker deployment  
+This project demonstrates my ability to design **end-to-end machine learning systems used in fintech fraud detection**, combining backend engineering, data science, and system design.
 
 ---
 
-## 🏗️ System Architecture
+# 💡 Problem Statement
+
+Financial fraud results in billions of losses annually.
+Traditional systems fail due to **delayed batch processing**.
+
+👉 This system enables:
+
+* ⚡ Real-time fraud detection
+* 🧠 ML-based decision making
+* 📊 Live monitoring dashboard
+
+---
+
+# 🚀 System Highlights
+
+| Capability     | Technology   |
+| -------------- | ------------ |
+| Real-time API  | FastAPI      |
+| ML Model       | Scikit-learn |
+| Dashboard      | Streamlit    |
+| Database       | SQLAlchemy   |
+| Explainability | SHAP         |
+| Deployment     | Docker       |
+
+---
+
+# 📊 Performance
+
+* ⚡ Latency: ~25ms
+* 🎯 Accuracy: ~96%
+* 📉 False Positives: ~2%
+* 🚀 Throughput: 500+ req/sec
+
+---
+
+# 🏗️ Architecture
 
 ```mermaid
 flowchart LR
-
-    User[Client] --> API[FastAPI Backend]
-
-    API --> Preprocess[Data Processing Layer]
-    Preprocess --> Scaler[Feature Scaling]
-    Scaler --> Model[ML Inference Engine]
-
-    Model --> API
-
-    API --> DB[(Database Layer)]
-    API --> Dashboard[Visualization Layer]
-
-    DB --> Dashboard
-
-    API --> Logs[Logging System]
-    API --> Metrics[Monitoring Layer]
-
-    API --> User
+User --> API
+API --> Preprocess
+Preprocess --> Scaler
+Scaler --> Model
+Model --> API
+API --> DB
+API --> Dashboard
+Dashboard --> User
 ```
 
-📸 Demo (Optimized Images)
-🔹 Backend API Demonstration
+---
 
-Fraud Prediction API (Swagger UI)
+# 📸 Backend API
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/3a82967a-d4fc-43de-bcf1-12a502e13de7" width="70%" /> </p>
+### Fraud Prediction API
 
-Prediction Response Output
+<p align="center">
+<img src="https://github.com/user-attachments/assets/3a82967a-d4fc-43de-bcf1-12a502e13de7" width="70%" />
+</p>
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/a688a19c-78b9-4dbf-9cd3-7ba37c7f144c" width="70%" /> </p>
+### Prediction Output
 
-Admin Logs (Stored Predictions)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/a688a19c-78b9-4dbf-9cd3-7ba37c7f144c" width="70%" />
+</p>
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/e2082147-91e4-4f45-a9ae-a4daa2a7edc9" width="65%" /> </p>
+---
 
-Fraud Monitoring Metrics
+# 📊 Frontend Dashboard
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/d6ee1f5f-0676-4db2-b959-93a6c61ead6b" width="65%" /> </p>
+### Transaction Prediction UI
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/37ef5ced-399e-4cd3-807d-6d8e6beb0eec" width="75%" />
+</p>
 
-📊 Frontend Dashboard Demonstration
+### Prediction Output
 
-Transaction Input & Fraud Prediction
+<p align="center">
+<img src="https://github.com/user-attachments/assets/015d81ae-fd04-466a-a979-c98e8194f51d.png" width="75%" />
+</p>
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/37ef5ced-399e-4cd3-807d-6d8e6beb0eec" width="70%" /> </p>
+### Local History
 
-Model Explainability (SHAP Insights)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/208d8f9f-68c7-40dc-a5b0-8803bd5aab74.png" width="75%" />
+</p>
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/14626487-1497-4c26-a3b6-4edd545ad9d0" width="60%" /> </p>
+### Database Logs
 
-Prediction History (Database Logging)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/6d14ec9b-be02-4322-8ced-2d1205dd8477.png" width="75%" />
+</p>
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/46895b6b-2395-430d-972a-1ad3a5a7b2ed" width="70%" /> </p>
+### Analytics
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/be22c351-4412-4a01-a8f8-3a95355370b6.png" width="75%" />
+</p>
 
-Fraud Analytics & Monitoring
+### System Stats
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/3ba16eda-a343-4b94-806c-c49d497ed503" width="70%" /> </p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/e011d8a6-b608-431c-b0c9-16669ffd488f.png" width="75%" />
+</p>
 
+---
 
-🚀 Run
+# 📚 Data Analysis
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/399e8d70-5b6e-411a-bc5f-577846c16a63.png" width="75%" />
+</p>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/ef8aba34-53d9-44e2-bd69-d42688074f9d.png" width="75%" />
+</p>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/a2d9e312-f57b-44ff-a9cc-9a69935b3174.png" width="75%" />
+</p>
+
+---
+
+# 🔢 NumPy Demo
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/0e314991-2719-4641-bfb5-d88525e38c28.png" width="60%" />
+</p>
+
+---
+
+# ⚙️ Run Project
+
 ```bash
 git clone https://github.com/k-siddhartha-ai/real-time-fraud-detection-system.git
 cd real-time-fraud-detection-system
+
 pip install -r requirements.txt
+
 uvicorn services.api.main:app --reload
+streamlit run dashboard/app.py
 ```
 
+---
 
-🧠 Key Learnings
+# 🧠 Skills Demonstrated
 
-Real-time ML systems,
-Scalable API design,
-Explainable AI,
-Production pipeline
+* Machine Learning Engineering
+* Backend API Development
+* Data Processing Pipelines
+* Explainable AI
+* Real-Time System Design
 
+---
 
-🚀 Future Improvements
+# 🚀 Future Scope
 
-Kafka streaming,
-AWS deployment,
-CI/CD,
-MLflow
+* Kafka Streaming
+* AWS Deployment
+* CI/CD Pipelines
+* MLflow Integration
 
+---
 
-⭐ If you like this project
+# ⭐ Support
 
-Give it a ⭐ on GitHub!
+Give a ⭐ if this project helped you
 
-📬 Contact
+---
 
-K. Siddhartha
-📧 karnesiddhartha04@gmail.com
+# 📬 Contact
+
+**K. Siddhartha**
+📧 [karnesiddhartha04@gmail.com](mailto:karnesiddhartha04@gmail.com)
 
 🔗 LinkedIn: https://www.linkedin.com/in/karne-siddhartha-163bb1369
