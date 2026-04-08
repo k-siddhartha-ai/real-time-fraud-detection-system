@@ -93,7 +93,8 @@ Dashboard --> User
 ## 🔍 Transaction Input UI
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/37ef5ced-399e-4cd3-807d-6d8e6beb0eec" width="75%" />
+<img src="<img width="80" height="866" alt="Screenshot 2026-04-09 001153" src="https://github.com/user-attachments/assets/2bccb62e-8184-4279-a4ff-7cc0443bd3d7" />
+" width="75%" />
 </p>
 
 ---
@@ -101,7 +102,8 @@ Dashboard --> User
 ## 📌 Prediction Result (Fraud Detection)
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/015d81ae-fd04-466a-a979-c98e8194f51d.png" width="75%" />
+<img src="<img width="80" height="30" alt="Screenshot 2026-04-09 001247" src="https://github.com/user-attachments/assets/8da1c832-0085-4e41-ad80-bf14e5ebe8f2" />
+" width="75%" />
 </p>
 
 ---
