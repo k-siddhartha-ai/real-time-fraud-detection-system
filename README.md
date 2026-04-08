@@ -91,12 +91,14 @@ pip install -r requirements.txt
 uvicorn services.api.main:app --reload
 
 🧠 Key Learnings
+
 Real-time ML systems
 Scalable API design
 Explainable AI
 Production pipeline
 
 🚀 Future Improvements
+
 Kafka streaming
 AWS deployment
 CI/CD
