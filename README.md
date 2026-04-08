@@ -93,14 +93,15 @@ Dashboard --> User
 ## 🔍 Transaction Input UI
 
 <p align="center">
-<img src="<img width="80" height="866" alt="Screenshot 2026-04-09 001153" src="https://github.com/user-attachments/assets/2bccb62e-8184-4279-a4ff-7cc0443bd3d7" />
+<img src="<<img width="1745" height="866" alt="Screenshot 2026-04-09 001153" src="https://github.com/user-attachments/assets/adbe4b1d-755a-444e-890e-6b52b0af1a76" />
+<img width="1745" height="866" alt="Screenshot 2026-04-09 001153" src="https://github.com/user-attachments/assets/adbe4b1d-755a-444e-890e-6b52b0af1a76" />
+" />
 " width="75%" />
 </p>
 
 ---
 
 ## 📌 Prediction Result (Fraud Detection)
-
 <p align="center">
 <img src="<img width="80" height="30" alt="Screenshot 2026-04-09 001247" src="https://github.com/user-attachments/assets/8da1c832-0085-4e41-ad80-bf14e5ebe8f2" />
 " width="75%" />
@@ -111,7 +112,9 @@ Dashboard --> User
 ## 🧾 Local Prediction History
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/208d8f9f-68c7-40dc-a5b0-8803bd5aab74.png" width="75%" />
+<img src="<img width="1748" height="235" alt="Screenshot 2026-04-09 001443" src="https://github.com/user-attachments/assets/57ad6d2b-ed5d-40c6-9a63-169d60e2af4b" />
+<img width="1748" height="235" alt="Screenshot 2026-04-09 001443" src="https://github.com/user-attachments/assets/57ad6d2b-ed5d-40c6-9a63-169d60e2af4b" />
+" width="75%" />
 </p>
 
 ---
@@ -145,19 +148,25 @@ Dashboard --> User
 ## 📊 Mean
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/399e8d70-5b6e-411a-bc5f-577846c16a63.png" width="75%" />
+<img src="<img width="1766" height="629" alt="Screenshot 2026-04-09 001511" src="https://github.com/user-attachments/assets/e2089e6d-0e74-4270-8b6b-5b50a02b89f9" />
+<img width="1766" height="629" alt="Screenshot 2026-04-09 001511" src="https://github.com/user-attachments/assets/e2089e6d-0e74-4270-8b6b-5b50a02b89f9" />
+" width="75%" />
 </p>
 
 ## 📊 Median
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/ef8aba34-53d9-44e2-bd69-d42688074f9d.png" width="75%" />
+<img src="<img width="1760" height="493" alt="Screenshot 2026-04-09 001527" src="https://github.com/user-attachments/assets/f30bb585-0fb8-481e-854a-ba6810c8455b" />
+<img width="1760" height="493" alt="Screenshot 2026-04-09 001527" src="https://github.com/user-attachments/assets/f30bb585-0fb8-481e-854a-ba6810c8455b" />
+" width="75%" />
 </p>
 
 ## 📊 Standard Deviation
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/a2d9e312-f57b-44ff-a9cc-9a69935b3174.png" width="75%" />
+<img src="<img width="1726" height="494" alt="Screenshot 2026-04-09 001541" src="https://github.com/user-attachments/assets/7cd1e097-bd46-4d2a-858b-c649af8fdc4c" />
+<img width="1726" height="494" alt="Screenshot 2026-04-09 001541" src="https://github.com/user-attachments/assets/7cd1e097-bd46-4d2a-858b-c649af8fdc4c" />
+" width="75%" />
 </p>
 
 ---
@@ -165,7 +174,9 @@ Dashboard --> User
 # 🔢 NumPy Demo
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/0e314991-2719-4641-bfb5-d88525e38c28.png" width="60%" />
+<img src="<img width="1762" height="405" alt="Screenshot 2026-04-09 001733" src="https://github.com/user-attachments/assets/94771cbd-2cbf-44a4-a839-dd41dded23b3" />
+<img width="1762" height="405" alt="Screenshot 2026-04-09 001733" src="https://github.com/user-attachments/assets/94771cbd-2cbf-44a4-a839-dd41dded23b3" />
+" width="60%" />
 </p>
 
 ---
