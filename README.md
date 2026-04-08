@@ -89,7 +89,8 @@ flowchart LR
 🧾 Transaction Input & Fraud Prediction
 <img src="https://github.com/user-attachments/assets/37ef5ced-399e-4cd3-807d-6d8e6beb0eec" width="70%" />
 🔍 Model Explainability (SHAP Insights)
-<img src="https://github.com/user-attachments/assets/08bdedd4-a813-4eed-a22f-b89d1616d3f8" width="70%" />
+<img src="<img width="300" height="300" alt="Screenshot 2026-04-08 003537" src="https://github.com/user-attachments/assets/14626487-1497-4c26-a3b6-4edd545ad9d0" />
+" width="70%" />
 📜 Prediction History (Database Logging)
 <img src="https://github.com/user-attachments/assets/46895b6b-2395-430d-972a-1ad3a5a7b2ed" width="70%" />
 📈 Fraud Analytics & Monitoring
