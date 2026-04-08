@@ -74,21 +74,36 @@ flowchart LR
 
 
 📸 Demo (Optimized Images)
-🔹 API (Swagger)
+📸 Backend API Demonstration
+🔹 Fraud Prediction API (Swagger UI)
 <img src="https://github.com/user-attachments/assets/3a82967a-d4fc-43de-bcf1-12a502e13de7" width="70%" />
-🔹 Prediction Output
+🔹 Prediction Response Output
 <img src="https://github.com/user-attachments/assets/a688a19c-78b9-4dbf-9cd3-7ba37c7f144c" width="70%" />
-🔹 Logs
-<img src="https://github.com/user-attachments/assets/e2082147-91e4-4f45-a9ae-a4daa2a7edc9" width="60%" />
-🔹 Dashboard
+🔹 Admin Logs (Stored Predictions)
+<img src="https://github.com/user-attachments/assets/e2082147-91e4-4f45-a9ae-a4daa2a7edc9" width="70%" />
+🔹 Fraud Monitoring Metrics
+<img src="https://github.com/user-attachments/assets/d6ee1f5f-0676-4db2-b959-93a6c61ead6b" width="70%" />
+
+
+📊 Frontend Dashboard Demonstration
+🧾 Transaction Input & Fraud Prediction
 <img src="https://github.com/user-attachments/assets/37ef5ced-399e-4cd3-807d-6d8e6beb0eec" width="70%" />
+🔍 Model Explainability (SHAP Insights)
+<img src="https://github.com/user-attachments/assets/08bdedd4-a813-4eed-a22f-b89d1616d3f8" width="70%" />
+📜 Prediction History (Database Logging)
+<img src="https://github.com/user-attachments/assets/46895b6b-2395-430d-972a-1ad3a5a7b2ed" width="70%" />
+📈 Fraud Analytics & Monitoring
+<img src="https://github.com/user-attachments/assets/3ba16eda-a343-4b94-806c-c49d497ed503" width="70%" />
+
 
 
 🚀 Run
+```bash
 git clone https://github.com/k-siddhartha-ai/real-time-fraud-detection-system.git
 cd real-time-fraud-detection-system
 pip install -r requirements.txt
 uvicorn services.api.main:app --reload
+```
 
 🧠 Key Learnings
 
