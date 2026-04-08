@@ -113,10 +113,12 @@ Fraud Analytics & Monitoring
 
 
 🚀 Run
+```bash
 git clone https://github.com/k-siddhartha-ai/real-time-fraud-detection-system.git
 cd real-time-fraud-detection-system
 pip install -r requirements.txt
 uvicorn services.api.main:app --reload
+```
 
 
 🧠 Key Learnings
