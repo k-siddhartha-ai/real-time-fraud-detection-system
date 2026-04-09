@@ -1,4 +1,4 @@
-# 🚀 Real-Time Fraud Detection System
+<img width="1762" height="405" alt="Screenshot 2026-04-09 001733" src="https://github.com/user-attachments/assets/61a487cb-574d-4ac2-ba84-8850dc2476c4" /># 🚀 Real-Time Fraud Detection System
 
 > **Production-Grade Machine Learning System for Real-Time Financial Fraud Detection**
 > Built using FastAPI, Streamlit, and Scalable ML Architecture
@@ -92,54 +92,37 @@ Dashboard --> User
 
 ## 🔍 Transaction Input UI
 
-<p align="center">
-<img src="<<img width="1745" height="866" alt="Screenshot 2026-04-09 001153" src="https://github.com/user-attachments/assets/adbe4b1d-755a-444e-890e-6b52b0af1a76" />
-<img width="1745" height="866" alt="Screenshot 2026-04-09 001153" src="https://github.com/user-attachments/assets/adbe4b1d-755a-444e-890e-6b52b0af1a76" />
-" />
-" width="75%" />
-</p>
+<img width="1745" height="866" alt="Screenshot 2026-04-09 001153" src="https://github.com/user-attachments/assets/8ca7ad2a-6632-4a96-925f-f8fe88d94ebd" />
 
 ---
 
 ## 📌 Prediction Result (Fraud Detection)
-<p align="center">
-<img src="<img width="80" height="30" alt="Screenshot 2026-04-09 001247" src="https://github.com/user-attachments/assets/8da1c832-0085-4e41-ad80-bf14e5ebe8f2" />
-" width="75%" />
-</p>
+<img width="1819" height="309" alt="Screenshot 2026-04-09 001247" src="https://github.com/user-attachments/assets/be699323-4281-47c5-8370-fd4d0d93da37" />
 
----
 
 ## 🧾 Local Prediction History
+<img width="1819" height="276" alt="Screenshot 2026-04-09 001247" src="https://github.com/user-attachments/assets/a7fcff21-25f8-45ed-9043-8e9e7d87d39a" />
 
-<p align="center">
-<img src="<img width="1748" height="235" alt="Screenshot 2026-04-09 001443" src="https://github.com/user-attachments/assets/57ad6d2b-ed5d-40c6-9a63-169d60e2af4b" />
-<img width="1748" height="235" alt="Screenshot 2026-04-09 001443" src="https://github.com/user-attachments/assets/57ad6d2b-ed5d-40c6-9a63-169d60e2af4b" />
-" width="75%" />
-</p>
 
 ---
 
 ## 🗃️ Database Prediction Logs
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/6d14ec9b-be02-4322-8ced-2d1205dd8477.png" width="75%" />
-</p>
+<img width="1725" height="636" alt="Screenshot 2026-04-09 001320" src="https://github.com/user-attachments/assets/50a548f4-9558-4555-ab1f-b95679fe0725" />
+
 
 ---
 
 ## 📈 Fraud Probability Distribution
+<img width="1735" height="568" alt="Screenshot 2026-04-09 001419" src="https://github.com/user-attachments/assets/0edf677d-236f-440f-b279-50661c811ce2" />
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/be22c351-4412-4a01-a8f8-3a95355370b6.png" width="75%" />
-</p>
 
 ---
 
 ## 📊 Fraud Statistics Dashboard
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/e011d8a6-b608-431c-b0c9-16669ffd488f.png" width="75%" />
-</p>
+<img width="1748" height="235" alt="Screenshot 2026-04-09 001443" src="https://github.com/user-attachments/assets/1ecc9d86-63c5-4925-8f77-94478bf8f49e" />
+
 
 ---
 
@@ -147,37 +130,30 @@ Dashboard --> User
 
 ## 📊 Mean
 
-<p align="center">
-<img src="<img width="1766" height="629" alt="Screenshot 2026-04-09 001511" src="https://github.com/user-attachments/assets/e2089e6d-0e74-4270-8b6b-5b50a02b89f9" />
-<img width="1766" height="629" alt="Screenshot 2026-04-09 001511" src="https://github.com/user-attachments/assets/e2089e6d-0e74-4270-8b6b-5b50a02b89f9" />
-" width="75%" />
-</p>
+<img width="1766" height="629" alt="Screenshot 2026-04-09 001511" src="https://github.com/user-attachments/assets/a4b677d0-3509-4f5e-8f60-82d5d1959df0" />
+
 
 ## 📊 Median
 
-<p align="center">
-<img src="<img width="1760" height="493" alt="Screenshot 2026-04-09 001527" src="https://github.com/user-attachments/assets/f30bb585-0fb8-481e-854a-ba6810c8455b" />
-<img width="1760" height="493" alt="Screenshot 2026-04-09 001527" src="https://github.com/user-attachments/assets/f30bb585-0fb8-481e-854a-ba6810c8455b" />
-" width="75%" />
-</p>
+<img width="1760" height="493" alt="Screenshot 2026-04-09 001527" src="https://github.com/user-attachments/assets/8b8ee7a5-5ee1-4a88-83f4-a8a7dde35320" />
+
 
 ## 📊 Standard Deviation
 
-<p align="center">
-<img src="<img width="1726" height="494" alt="Screenshot 2026-04-09 001541" src="https://github.com/user-attachments/assets/7cd1e097-bd46-4d2a-858b-c649af8fdc4c" />
-<img width="1726" height="494" alt="Screenshot 2026-04-09 001541" src="https://github.com/user-attachments/assets/7cd1e097-bd46-4d2a-858b-c649af8fdc4c" />
-" width="75%" />
-</p>
+<img width="1726" height="494" alt="Screenshot 2026-04-09 001541" src="https://github.com/user-attachments/assets/fac00f1c-d827-4ac2-96f2-311f917fbc0b" />
+
 
 ---
 
+## Visualization
+## Transaction amount Distribution
+
+<img width="1739" height="633" alt="Screenshot 2026-04-09 001712" src="https://github.com/user-attachments/assets/9a7abdbc-68ff-4980-9c7c-17934b233adf" />
+
 # 🔢 NumPy Demo
 
-<p align="center">
-<img src="<img width="1762" height="405" alt="Screenshot 2026-04-09 001733" src="https://github.com/user-attachments/assets/94771cbd-2cbf-44a4-a839-dd41dded23b3" />
-<img width="1762" height="405" alt="Screenshot 2026-04-09 001733" src="https://github.com/user-attachments/assets/94771cbd-2cbf-44a4-a839-dd41dded23b3" />
-" width="60%" />
-</p>
+<img width="1762" height="405" alt="Screenshot 2026-04-09 001733" src="https://github.com/user-attachments/assets/e37bbf73-f498-4941-8787-c42225ab8922" />
+
 
 ---
 
