@@ -1,4 +1,4 @@
-<img width="1762" height="405" alt="Screenshot 2026-04-09 001733" src="https://github.com/user-attachments/assets/61a487cb-574d-4ac2-ba84-8850dc2476c4" /># 🚀 Real-Time Fraud Detection System
+
 
 > **Production-Grade Machine Learning System for Real-Time Financial Fraud Detection**
 > Built using FastAPI, Streamlit, and Scalable ML Architecture
